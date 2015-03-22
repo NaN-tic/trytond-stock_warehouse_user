@@ -1,0 +1,59 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:res.user,warehouse:"
+msgid "Warehouse"
+msgstr "Almacén"
+
+msgctxt "field:res.user,warehouses:"
+msgid "Warehouses"
+msgstr "Almacenes"
+
+msgctxt "field:stock.location-res.user,create_date:"
+msgid "Create Date"
+msgstr "Fecha creación"
+
+msgctxt "field:stock.location-res.user,create_uid:"
+msgid "Create User"
+msgstr "Usuario creación"
+
+msgctxt "field:stock.location-res.user,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:stock.location-res.user,location:"
+msgid "Location"
+msgstr "Ubicación"
+
+msgctxt "field:stock.location-res.user,rec_name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:stock.location-res.user,user:"
+msgid "User"
+msgstr "Usuario"
+
+msgctxt "field:stock.location-res.user,write_date:"
+msgid "Write Date"
+msgstr "Fecha modificación"
+
+msgctxt "field:stock.location-res.user,write_uid:"
+msgid "Write User"
+msgstr "Usuario modificación"
+
+msgctxt "help:res.user,warehouse:"
+msgid "Current warehouse the user are working"
+msgstr "Almacén actual en que trabaja el usuario"
+
+msgctxt "help:res.user,warehouses:"
+msgid "Warehouses the user can work"
+msgstr "Almacenes en que el usuario puede trabajar"
+
+msgctxt "model:stock.location-res.user,name:"
+msgid "Stock Location - Res User"
+msgstr "Ubicación de stock - Usuario"
+
+msgctxt "view:res.user:"
+msgid "Warehouses"
+msgstr "Almacenes"
