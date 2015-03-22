@@ -27,7 +27,6 @@ class User:
         cls._preferences_fields.extend([
                 'warehouse',
                 'warehouses',
-                'warehouse_location',
                 ])
         cls._context_fields.insert(0, 'warehouse')
         cls._context_fields.insert(0, 'warehouses')
